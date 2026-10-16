@@ -1,0 +1,12 @@
+google-genai
+google.adk
+litellm
+pydantic
+fastmcp
+mcp
+maikol-utils
+python-dotenv
+pandas
+requests
+feedparser
+aiohttp

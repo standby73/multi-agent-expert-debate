@@ -1,0 +1,8 @@
+google-adk
+google-genai
+litellm
+pydantic
+fastmcp
+mcp
+maikol-utils
+python-dotenv
